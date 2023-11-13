@@ -128,3 +128,9 @@ function header() {
 
 }
 header()
+function repeat() {
+    document.querySelector("#repeat").addEventListener("click", () => {
+        location.reload()
+    })
+}
+repeat()
