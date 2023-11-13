@@ -36,7 +36,7 @@ function game() {
             e.disabled = false;
         })
     })
-    let numberRandom;
+    let numberRandom=2;
 
     btnGo.onclick = () => {
         
