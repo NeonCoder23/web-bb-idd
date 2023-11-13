@@ -84,7 +84,7 @@ game()
 
 function qoida() {
     document.querySelector("#qoida").onclick = () => {
-        alert("Boriga Baraka Web o'yini. 24 ta katak, 24ta tugmacha, 24ta sovg'a. Agar tanlash tugmasini bossangiz, nechta tugma bosishingiz aytiladi va shu tartibda davom etadi. Faqatgina bu variantda oxirida nechta tugma bosing deyishidan qat'iy nazar, 2ta tugmani qoldirishingiz shart! Agar tanlash tugmasini bosmay, o'ynasangiz, unda standart 2tadan tugmachani bosa olasiz! Omad!!!")
+        alert("Boriga Baraka Web o'yini. 24 ta katak, 24ta tugmacha, 24ta sovg'a. Agar tanlash tugmasini bossangiz, nechta tugma bosishingiz aytiladi va shu tartibda davom etadi. Faqatgina bu variantda oxirida nechta tugma bosing deyishidan qat'iy nazar, 2ta tugmani qoldirishingiz shart! Agar tanlash tugmasini bosmay, o'ynasangiz, unda standart 2tadan tugmachani bosa olasiz! Oxirida qolgan ikkita tugmachadan tanlagan sovg'a sizniki! Omad!!!")
     }    
 }
 qoida()
